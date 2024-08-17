@@ -20,7 +20,6 @@ define('NONCE_SALT', 'put your unique phrase here');
 
 define('WP_DEBUG', false);
 define('WP_DEBUG_LOG', false);
-define('WP_DEBUG_LOG', false);
 define('WP_DEBUG_DISPLAY', false);
 @ini_set('display_errors', 0);
 
